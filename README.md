@@ -1,2 +1,1 @@
-# First-Contribution
-This is my first contribution
+HELLO THIS IS THE FIRST CONTRIBUTION IN GITHUB.	
